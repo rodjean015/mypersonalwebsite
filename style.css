@@ -153,6 +153,7 @@ h4 {
     padding: 0 0 15px 0;
     border: none;
     border-radius: 0;
+    filter: drop-shadow(0px 0px 5px rgba(0,0,0,0.2));
 }
 .thumbnail img {
     width: 100%;
