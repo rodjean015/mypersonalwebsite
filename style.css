@@ -24,8 +24,8 @@ p{
     border-bottom: 2px;
 }
 .image img{
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     border-radius: 50%;
     filter: drop-shadow(0px 0px 5px rgba(0,0,0,1));
 }
@@ -120,7 +120,7 @@ h4 {
     10%{background-position: 0 50%;}
 }
 .col-sm-8 {
-    padding: 50px 80px;
+    padding: 30px 50px;
     text-align: justify;
 }
 .bg-grey {
@@ -282,7 +282,6 @@ footer .glyphicon {
 }
 @media screen and (max-width: 768px) {
     .col-sm-4 {
-        text-align: center;
         margin: 25px 0;
     }
     .btn-md {
@@ -291,7 +290,7 @@ footer .glyphicon {
         font-size: 10px;
     }
     .col-sm-8 {
-        text-align: center;
+        text-align: left;
         margin: 25px 0;
     
     }
